@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba0b782f-107e-48d0-8229-9ba35a4c3fad" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_common/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_interface/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/target/" />
+    <ignored path="$PROJECT_DIR$/wangyigou_parent/pinyougou_manager_web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="228671315">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="13" />
+          <entry key="css" value="2" />
+          <entry key="html" value="13" />
+          <entry key="iml" value="10" />
+          <entry key="java" value="116" />
+          <entry key="js" value="29" />
+          <entry key="jsp" value="2" />
+          <entry key="log" value="11" />
+          <entry key="properties" value="14" />
+          <entry key="ts" value="2" />
+          <entry key="xml" value="147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="13" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="13" />
+          <entry key="IDEA_MODULE" value="10" />
+          <entry key="JAVA" value="116" />
+          <entry key="JSP" value="2" />
+          <entry key="JavaScript" value="29" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Properties" value="14" />
+          <entry key="TypeScript" value="2" />
+          <entry key="XML" value="147" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="html" value="1296" />
+          <entry key="java" value="1177" />
+          <entry key="js" value="2433" />
+          <entry key="properties" value="10" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="1436" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1282" />
+          <entry key="JAVA" value="1177" />
+          <entry key="JavaScript" value="2433" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="10" />
+          <entry key="SQL" value="14" />
+          <entry key="XML" value="1436" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="wangyigou" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BaseController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BrandController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/brand.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+              <folding>
+                <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/specificationController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/Base.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_interface/src/main/java/com/wangyigou/service/BrandService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/java/com/wangyigou/manager/controller/BrandController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#583#584#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/entity/PageResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>artifactId</find>
+      <find>artifactId&gt;T</find>
+      <find>ng-init</find>
+      <find>数据表格</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/TbUserMapper.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/TbUserMapper.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbAddress.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbAreas.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbCities.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbContent.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbOrderItem.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbItemCat.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbContentCategory.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbFreightTemplate.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbGoods.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbOrder.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbSeckillGoods.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbProvinces.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbSeckillOrder.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbSeller.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbSpecification.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbSpecificationOption.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbTypeTemplate.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/TbTypeTemplateMapper.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/TbGoodsDescMapper.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/entity/PageResult.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/service/UserService.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbBrand.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbGoodsDesc.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbUser.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/com/wangyigou/pojo/TbPayLog.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/resources/spring/applicationContext-tx.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/properties/db.properties" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/mybatis/SqlMapConfig.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_interface/src/main/java/com/wangyigou/service/BrandService.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/Base.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/Base_pagination.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/java/com/wangyigou/manager/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/java/com/wangyigou/sellergoods/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/brand.html" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/service/BrandService.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BrandController.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BaseController.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/specificationController.js" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/specificationController.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.0\apache-maven-3.6.0\repository_wangyigou" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wangyigou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wangyigou_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/plugins/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="26" />
+    <option name="y" value="10" />
+    <option name="width" value="1484" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JSAnnotator</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="false" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wangyigou" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wangyigou_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="wangyigou_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551028707923" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\wangyigou\wangyigou_parent\wangyigou_manager_web\src\main\java" />
+      <recent name="E:\wangyigou\wangyigou_parent\wangyigou_sellergoods_service\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wangyigou\wangyigou_parent\wangyigou_pojo\src\main\java\com\wangyigou" />
+      <recent name="E:\wangyigou\wangyigou_parent\wangyigou_dao\src\main\java\com\wangyigou\mapper" />
+      <recent name="E:\wangyigou\wangyigou_parent\wangyigou_manager_web\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.wangyigou_manager_web">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="wangyigou_manager_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="wangyigou_sellergoods_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="wangyigou_shop_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.wangyigou_manager_web" />
+      <item itemvalue="Maven.wangyigou_sellergoods_service" />
+      <item itemvalue="Maven.wangyigou_shop_web" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba0b782f-107e-48d0-8229-9ba35a4c3fad" name="Default Changelist" comment="" />
+      <created>1548171231623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548171231623</updated>
+      <workItem from="1548171234860" duration="4771000" />
+      <workItem from="1548206134381" duration="8413000" />
+      <workItem from="1548308815235" duration="27077000" />
+      <workItem from="1548400676869" duration="111975000" />
+      <workItem from="1550063434494" duration="16011000" />
+      <workItem from="1550312679047" duration="7612000" />
+      <workItem from="1550677112148" duration="382000" />
+      <workItem from="1550842154830" duration="6910000" />
+      <workItem from="1551328831931" duration="2473000" />
+      <workItem from="1551420319082" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="185968000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info x="587" y="122" width="426" height="615" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.19280206" />
+      <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.27377892" />
+      <window_info id="Designer" order="2" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32969153" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" weight="0.32969153" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32749325" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.2530949" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993573" weight="0.5283019" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4993573" weight="0.53507566" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.15543328" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3287483" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064266" side_tool="true" weight="0.35040432" />
+      <window_info anchor="bottom" id="IDEtalk Messages" order="10" />
+      <window_info anchor="bottom" id="Tail" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32749325" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" sideWeight="0.50064266" side_tool="true" weight="0.35444745" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.10041265" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="18" weight="0.077028885" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.16966581" />
+      <window_info anchor="right" id="IDEtalk" order="7" weight="0.32969153" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/type_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/wangyigou_sellergoods_service.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/java/com/wangyigou/sellergoods/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="99" column="30" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/resources/properties/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/content.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/seller_1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/apache-maven-3.6.0/repository_wangyigou/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/apache-maven-3.6.0/repository_wangyigou/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/plugins/angularjs/pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#153#160#1" expanded="true" />
+            <element signature="e#451#458#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/plugins/angularjs/pagination.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/apache-maven-3.6.0/repository_wangyigou/com/github/abel533/mapper/2.3.4/mapper-2.3.4.jar!/com/github/abel533/mapper/Mapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1518">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/src/main/java/com/wangyigou/mapper/TbBrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_191/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="95" column="29" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26158">
+          <caret line="1202" column="4" selection-start-line="1202" selection-start-column="4" selection-end-line="1202" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/apache-maven-3.6.0/repository_wangyigou/org/springframework/spring-web/4.2.4.RELEASE/spring-web-4.2.4.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/Base_pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="53" selection-start-column="53" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/service/BrandService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/src/main/java/com/wangyigou/sellergoods/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/apache-maven-3.6.0/apache-maven-3.6.0/repository_wangyigou/com/github/pagehelper/pagehelper/4.0.0/pagehelper-4.0.0-sources.jar!/com/github/pagehelper/PageInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1518">
+          <caret line="93" column="22" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/replay_pid6504.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/hs_err_pid6504.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/hs_err_pid14076.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/replay_pid14076.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/hs_err_pid4308.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/replay_pid4308.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/hs_err_pid4960.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/replay_pid4960.log" />
+    <entry file="jar://E:/java/jdk1.8.0_191/src.zip!/java/util/zip/ZipFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="224" selection-start-line="224" selection-end-line="224" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/hs_err_pid3284.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/replay_pid3284.log" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/specificationController.js" />
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BaseController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/BrandController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/controller/specificationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/js/Base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_interface/src/main/java/com/wangyigou/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/java/com/wangyigou/manager/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/src/main/java/entity/PageResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/src/main/webapp/admin/brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="95" column="20" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="95" selection-end-column="20" />
+          <folding>
+            <element signature="n#style#0;n#th#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

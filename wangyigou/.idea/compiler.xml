@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wangyigou_common" />
+        <module name="wangyigou_dao" />
+        <module name="wangyigou_manager_web" />
+        <module name="wangyigou_pojo" />
+        <module name="wangyigou_sellergoods_interface" />
+        <module name="wangyigou_sellergoods_service" />
+        <module name="wangyigou_shop_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pinyougou_manager_web" target="1.7" />
+      <module name="wangyigou_common" target="1.7" />
+      <module name="wangyigou_dao" target="1.7" />
+      <module name="wangyigou_manager_manager_web" target="1.7" />
+      <module name="wangyigou_manager_web" target="1.7" />
+      <module name="wangyigou_parent" target="1.7" />
+      <module name="wangyigou_pojo" target="1.7" />
+      <module name="wangyigou_sellergoods_interface" target="1.7" />
+      <module name="wangyigou_sellergoods_service" target="1.7" />
+      <module name="wangyigou_shop_web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

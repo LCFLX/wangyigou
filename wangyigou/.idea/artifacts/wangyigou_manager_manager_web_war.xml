@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wangyigou_manager_manager_web:war">
+    <output-path>$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web/target</output-path>
+    <root id="archive" name="wangyigou_manager_manager_web.war">
+      <element id="artifact" artifact-name="wangyigou_manager_manager_web:war exploded" />
+    </root>
+  </artifact>
+</component>

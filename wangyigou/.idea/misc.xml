@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao" />
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo" />
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web" />
+  </component>
+  <component name="IdProvider" IDEtalkID="3882126C0B881A1576C9E92771A5A7B7" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wangyigou_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_common/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellergoods_service/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_shop_web/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/wangyigou_parent/pinyougou_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

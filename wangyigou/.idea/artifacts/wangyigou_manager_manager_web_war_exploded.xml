@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wangyigou_manager_manager_web:war exploded">
+    <output-path>$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web/target/wangyigou_manager_manager_web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wangyigou_manager_manager_web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_manager_web/target/wangyigou_manager_manager_web/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="wangyigou_manager_manager_web/web/Web" />
+    </root>
+  </artifact>
+</component>
